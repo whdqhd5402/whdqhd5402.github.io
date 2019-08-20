@@ -1,16 +1,16 @@
 # User Setting
 gmail:
-  username: monthly.code
+  username: whdqhd5402
 github:
-  username: monthly-code
+  username: whdqhd5402
 gitlab:
   username: 
 google-analytics: 
   ua:
 disqus:
-  username: monthly-code
+  username: whdqhd5402
 
-username: Monthly Code
+username: whdqhd5402
 # Site Path Setting
 host:
 port:
@@ -21,9 +21,8 @@ baseurl:
 search: true
 
 # Site Info Setting
-title: monthly code's _Template site
-intro: >
-  Intro message!
+title: 
+intro: 
 
 # Permalink Setting
 permalink: pretty
@@ -46,25 +45,25 @@ collections:
   categories:
     output: true
     permalink: /:collection/:path
-  jekyll:
-    output: true
-  gitlab:
-    output: true
+  # jekyll:
+  #   output: true
+  # gitlab:
+  #   output: true
 
 # Default Setting
 defaults:
-  -
-    scope:
-      path: _jekyll
-      type: jekyll # candidate only collection name
-    values:
-      permalink: docs/jekyll/:title
-  -
-    scope:
-      path: _gitlab
-      type: gitlab
-    values:
-      permalink: docs/gitlab/:title
+  # -
+  #   scope:
+  #     path: _jekyll
+  #     type: jekyll # candidate only collection name
+  #   values:
+  #     permalink: docs/jekyll/:title
+  # -
+  #   scope:
+  #     path: _gitlab
+  #     type: gitlab
+  #   values:
+  #     permalink: docs/gitlab/:title
 
 # Markdown Setting
 markdown: kramdown

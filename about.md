@@ -5,6 +5,11 @@ permalink: about
 
 # About
 
+monthly-code의 _template repo.를 fork 해서 만든 github pages 입니다.
+
+
+# monthly-code's About
+
 `Powered by Jekyll` & `Designed by monthly-code`
 
 Jekyll 기반으로 만들어진 _Template 입니다.
